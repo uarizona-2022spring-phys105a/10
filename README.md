@@ -4,5 +4,5 @@ You may accept this assignment in GitHub Classroom using this link:
 
 ## Assignment 10: Optimization
 
-In this assignment, we will modify the gradient descent method and use
-it to solve for perform curve fitting.
+IIn this assignment, we will generalize the gradient descent method we
+learned in class to perform curve fitting.
